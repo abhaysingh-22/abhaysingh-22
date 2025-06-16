@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **frontend projects.**
 
-- 🤝 I’m looking for **Mentor.**
+- 🤝 I’m looking for **Collabrations.**
 
-- 💬 Ask me about **Frontend skills, Designing skills and Algorithmic skills.**
+- 💬 Ask me about **Frontend skills, Designing skills and Problem Solving skills.**
 
 - 📫 How to reach me **abhaysingh6575@gmail.com**
 
