@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<h2 align="center">
-  if(brain != "Empty") {<br>
-  &nbsp;&nbsp;cout &lt;&lt; "Keep Coding";<br>
-  } else {<br>
-  &nbsp;&nbsp;cout &lt;&lt; "Make Coffee!";<br>
-  }
-</h2>
 
 <h3 align="center">A passionate first year Engineer currently studying in Army Institute of Technology, Pune. Pursuing my Btech degree.</h3>
 
@@ -38,4 +31,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaysingh-22&show_icons=true&locale=en" alt="abhaysingh-22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysingh-22&" alt="abhaysingh-22" /></p>
+<div align="center">
+<pre>
+if brain != "Empty":
+    return "Keep Coding!"
+else:
+    return "Push to Git and Pray!"
+</pre>
+</div>
+
