@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
+<h2 align="center">
+  if(brain != "Empty") {<br>
+  &nbsp;&nbsp;cout &lt;&lt; "Keep Coding";<br>
+  } else {<br>
+  &nbsp;&nbsp;cout &lt;&lt; "Make Coffee!";<br>
+  }
+</h2>
+
 <h3 align="center">A passionate first year Engineer currently studying in Army Institute of Technology, Pune. Pursuing my Btech degree.</h3>
 
 - 🔭 I’m currently working to **upskill myself.**
