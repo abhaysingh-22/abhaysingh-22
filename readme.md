@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<h1 align="center">"Repositories are private while being refined"</h1>
 
 <h3 align="center">A passionate first year Engineer currently studying in Army Institute of Technology, Pune. Pursuing my Btech degree.</h3>
 
