@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working to **upskill myself.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I’m currently exploring & learning **Gen AI & Data Structures**
 
-- 👯 I’m looking to collaborate on **frontend projects.**
+- 👯 I’m looking to collaborate on **Full Stack projects.**
 
 - 🤝 I’m looking for **Collabrations.**
 
-- 💬 Ask me about **Frontend skills, Designing skills and Problem Solving skills.**
+- 💬 Ask me about **Frontend, Backend, Designing & Problem Solving skills.**
 
 - 📫 How to reach me **abhaysingh6575@gmail.com**
 
