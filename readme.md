@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
 
-<h3 align="center">A passionate second year Engineer currently studying in Army Institute of Technology, Pune. Pursuing my Btech degree.</h3>
+<h3 align="center">Co-Founder & CEO of NextEra, Full stack developer focused on building scalable backend systems, AI powered applications & Automations. Constantly working on innovative ideas to enhance my skills & make an impact in the tech world.</h3>
 
-- 🔭 I’m currently working to **upskill myself.**
+- 🔭 Currently building **scalable-optimise backend systems & AI web tools.**
 
-- 🌱 I’m currently exploring & learning **Gen AI & Data Structures**
+- 🌱 I’m currently exploring & learning **the world AI and new technologies.**
 
-- 👯 I’m looking to collaborate on **Full Stack projects.**
+- 👯 Open to collaborate on procution-level scalable projects, AI integrations & Building Automations.
 
-- 🤝 I’m looking for **Collabrations.**
+- 💬 Ask me about **Full Stack Development, System architecture, AI Integrations, Automations & Structured Problem Solving.**
 
-- 💬 Ask me about **Frontend, Backend, Designing & Problem Solving skills.**
+- 📫 Want to Know about me? 👉**Resume**
 
-- 📫 How to reach me **abhaysingh6575@gmail.com**
+- 🤝 For **Collabrations & Projects: nextera.inbox@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
