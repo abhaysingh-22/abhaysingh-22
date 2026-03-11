@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Full Stack Development, System architecture, AI Integrations, Automations & Structured Problem Solving.**
 
-- 📫 Want to Know about me? 👉**Resume**
+- 📫 Want to Know about me? 👉[Resume](https://drive.google.com/drive/folders/1wqdrZNtHRNrWgSonwD2bExHfstKaXveE?usp=sharing)
 
 - 🤝 For **Collabrations & Projects: nextera.inbox@gmail.com**
 
