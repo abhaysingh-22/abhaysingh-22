@@ -12,9 +12,9 @@
 
 - 📫 Want to Know about me? 👉[Resume](https://drive.google.com/drive/folders/1wqdrZNtHRNrWgSonwD2bExHfstKaXveE?usp=sharing)
 
-- 🤝 For **Collabrations & Projects: nextera.inbox@gmail.com**
-
 - ✨ Checkout our product:- [snapexx.tech](https://www.snapexx.tech/onboarding/1)
+
+- 🤝 For **Collabrations & Projects: nextera.inbox@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
