@@ -6,9 +6,9 @@
 
 - 🌱 Fact **still learning things.**
 
-- 👯 Open to collaborate on procution-level scalable projects, AI integrations & Building Automations.
+- 👯 Open to collaborate on procution-level scalable projects, AI agents & Building Automations.
 
-- 💬 Ask me about **Full Stack Development, System architecture, AI Integrations, Automations & Structured Problem Solving.**
+- 💬 Ask me about **Full Stack Dev, System architecture, AI agents, Automations & Structured Problem Solving.**
 
 - 📫 Want to Know about me? 👉[Resume](https://drive.google.com/drive/folders/1wqdrZNtHRNrWgSonwD2bExHfstKaXveE?usp=sharing)
 
