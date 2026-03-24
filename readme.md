@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<!-- Co-Founder & CEO of NextEra,  -->
-<h3 align="center">Full stack developer focused on building scalable backend systems, AI powered applications & Automations. Constantly working on innovative ideas to enhance my skills & make an impact in the tech world.</h3>
+
+<h3 align="center">Building <a href="https://www.linkedin.com/company/nextera-build/">@NextEra</a>, Full stack developer focused on building scalable backend systems, AI powered applications & Automations. Constantly working on innovative ideas to enhance my skills & make an impact in the tech world.</h3>
 
 - 🔭 Currently building **scalable-optimise backend systems & AI web tools.**
 
