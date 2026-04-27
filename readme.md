@@ -12,7 +12,7 @@
 
 - 📫 Want to Know about me? 👉[Resume](https://drive.google.com/drive/folders/1wqdrZNtHRNrWgSonwD2bExHfstKaXveE?usp=sharing)
 
-- ✨ Checkout our product:- [snapexx.tech](https://www.snapexx.tech)
+- ✨ Portfolio:- [abhayyy](https://abhay.cidc.dev/)
 
 - 🤝 For **Collabrations & Projects: nextera.inbox@gmail.com**
   
