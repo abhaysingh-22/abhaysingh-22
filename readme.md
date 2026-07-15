@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
 
-<h3 align="center">Building <a href="https://www.linkedin.com/company/nextera-build/">@NextEra</a>, Full stack developer focused on building scalable backend systems, AI powered applications & Automations. Constantly working on innovative ideas to enhance my skills & make an impact in the tech world.</h3>
+<h3 align="center">Software & AI Engineer focused on building scalable backend systems, AI powered applications & Automations. Constantly working on innovative ideas to enhance my skills & make an impact in the tech world.</h3>
 
 - 🔭 Currently building **scalable-optimise backend systems & AI web tools.**
 
-- 🌱 Fact **still learning things.**
+- 🌱 Fact: **still learning things.**
 
 - 👯 Open to collaborate on procution-level scalable projects, AI agents & Building Automations.
 
@@ -13,8 +13,6 @@
 - 📫 Want to Know about me? 👉[Resume](https://drive.google.com/drive/folders/1wqdrZNtHRNrWgSonwD2bExHfstKaXveE?usp=sharing)
 
 - ✨ Portfolio:- [abhayyy](https://abhay.cidc.dev/)
-
-- 🤝 For **Collabrations & Projects: nextera.inbox@gmail.com**
   
 - 💥 Hit your terminal: <code>**npx abhay-singh**</code>
 
